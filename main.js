@@ -1,7 +1,7 @@
 (() =>
     {
         const imageFilePath = "assets/images/";
-        const numImages = 15;
+        const numImages = 14;
         const flipExcludedCutoff = 1; //NOTE: this number represents the cutoff for where the non flippable images start
         const flipRandomPercent = 2; //NOTE: the number represents how many numbers to randomly choose. bigger = less likely, smaller = more likely.
 
