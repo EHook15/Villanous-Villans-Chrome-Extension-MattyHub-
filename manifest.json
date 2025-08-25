@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "MattyHub",
   "version": "1.0.0",
-  "description": "Villanous Villans made me do this",
+  "description": "Everywhere i go i see his face",
   "host_permissions": [ "https://www.youtube.com/*"],
   "content_scripts":
   [
